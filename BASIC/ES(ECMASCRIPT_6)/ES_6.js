@@ -45,3 +45,14 @@ const sum1 =(a,b) => {
 };
 
 sum1(5,10);
+
+
+
+// lets use the fat arrow function to make a fucntion to find the sum of two numbers 
+
+
+const add =(a,b)=>{
+   let add1= a+b;
+    console.log(add1);
+}
+add(5,4);
