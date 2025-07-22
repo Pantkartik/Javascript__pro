@@ -10,3 +10,15 @@ console.log(arr.indexOf(46));  // return the index of 46 ----> 2
 
 arr.includes(46,2);
 console.log(arr.includes(46,2));
+
+
+
+
+
+let num=[3,45,6,7,78];
+// to search the element in a array 
+
+console.log(num.indexOf(45));
+
+
+console.log(arr.lastIndexOf(45))
