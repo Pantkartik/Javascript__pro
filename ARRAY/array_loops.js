@@ -21,3 +21,7 @@ for(let items in fruits){
 
 
 // for each()
+
+// Array.Each(function callback(current value,index,array){
+//     //logic 
+// },this value );
